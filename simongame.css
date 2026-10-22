@@ -1,0 +1,43 @@
+body{
+    background-color: pink;
+    text-align:center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    /* align-content: center; */
+
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    border-radius:20px;
+    margin: 5px;
+    /* background-color: aqua;specificity of class is low */
+
+}
+
+.box1{
+    background-color: rgb(231, 94, 231);
+}
+.box2{
+         background-color:orange;
+
+}
+.box3{
+     background-color:rgb(30, 152, 30);
+
+}
+.box4{
+     background-color:blueviolet;
+}
+
+.changecolor{
+    background-color: white;
+}
+
+.endgamecolor{
+    background-color: red;
+
+}
