@@ -8,10 +8,9 @@ Test your short-term memory by repeating progressively longer sequences of flash
 
 ## ✨ Features
 
-- **Interactive Gameplay:** Start the game and repeat the sequence of colors by clicking the corresponding boxes.
-- **Progressive Difficulty:** Each level adds a new color to the sequence, making the game increasingly challenging.
-- **Visual Feedback:** Flashing colors help players identify the sequence they need to remember.
-- **Score Tracker:** Keep track of your progress as you advance through the levels.
+- **Interactive Gameplay**
+- **Progressive Difficulty**
+- **Score Tracker**
 
 ---
 
@@ -69,7 +68,7 @@ simon-game/
 
 ---
 
-##  Have Fun!
+## 🎉 Have Fun!
 
 Challenge your memory, improve your focus, and see how many levels you can complete!
 
